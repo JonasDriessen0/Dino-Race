@@ -92,3 +92,6 @@ TagManager:
   - name: Coin
     uniqueID: 2584869809
     locked: 0
+  - name: wind
+    uniqueID: 311635351
+    locked: 0
