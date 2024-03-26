@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - nextLine
+  - spike
+  - wall
+  - groundup
+  - PlayerBlu
+  - MissilePowah
+  - BallPowah
+  - PipePowah
+  - Rocket
+  - MissileWarning
+  - FootballPowah
+  - BlueWin
+  - RedWin
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - spike
+  - ground
+  - player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundSky
+    uniqueID: 2584375593
+    locked: 0
+  - name: Backgroundlayer3
+    uniqueID: 3882343617
+    locked: 0
+  - name: Backgroundlayer2
+    uniqueID: 1226991369
+    locked: 0
+  - name: Backgroundlayer1
+    uniqueID: 918313705
+    locked: 0
+  - name: Ground
+    uniqueID: 6474809
+    locked: 0
+  - name: Player
+    uniqueID: 2232944721
+    locked: 0
+  - name: Spike
+    uniqueID: 625207529
+    locked: 0
+  - name: Health
+    uniqueID: 1620960373
+    locked: 0
+  - name: HealthBar
+    uniqueID: 1392276667
+    locked: 0
+  - name: powerups
+    uniqueID: 471927041
+    locked: 0
+  - name: MissileWarning
+    uniqueID: 1159665729
+    locked: 0
+  - name: Coin
+    uniqueID: 2584869809
+    locked: 0
