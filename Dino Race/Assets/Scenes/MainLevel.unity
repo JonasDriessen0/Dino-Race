@@ -1365,7 +1365,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   minSize: 5
-  maxSize: 5.5
+  maxSize: 6
   mainCamera: {fileID: 519420031}
   spikeGenerator: {fileID: 7793593781006644380}
 --- !u!1 &627391634
