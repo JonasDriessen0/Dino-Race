@@ -9,11 +9,8 @@ public class AlphaFade : MonoBehaviour
     public bool fadeIn = true;
     public SpriteRenderer text;
 
-    // Update is called once per frame
     void Update()
     {
-
-
         if (fadeIn)
         {
             float currentAlpha = 0f;

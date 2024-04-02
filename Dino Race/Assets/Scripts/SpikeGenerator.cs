@@ -7,9 +7,8 @@ public class SpikeGenerator : MonoBehaviour
     public float MinSpeed;
     public float MaxSpeed;
     public float CurrentSpeed;
-
     public float SpeedMultiplier;
-    // Start is called before the first frame update
+
     void Start()
     {
         CurrentSpeed = MinSpeed;
@@ -30,7 +29,6 @@ public class SpikeGenerator : MonoBehaviour
         SpikeIns.GetComponent<SpikeScript>().Speed = CurrentSpeed;
     }
 
-    // Update is called once per frame
     void Update()
     {
         if (CurrentSpeed < MaxSpeed)
